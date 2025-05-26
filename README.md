@@ -11,7 +11,21 @@ Simple demonstrations of fundamental machine learning concepts using scikit-lear
 - Model evaluation basics
 
 ## Requirements
+```bash
+pip install -r requirements.txt
+```
+
+Required packages:
 - Python 3.x
 - scikit-learn
 - numpy
-- pandasbasic
+- pandas
+- matplotlib
+
+## Usage
+1. Clone this repository
+2. Install dependencies
+3. Run examples from individual notebooks or scripts
+
+
+
