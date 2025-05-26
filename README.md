@@ -14,4 +14,4 @@ Simple demonstrations of fundamental machine learning concepts using scikit-lear
 - Python 3.x
 - scikit-learn
 - numpy
-- pandas
+- pandasbasic
